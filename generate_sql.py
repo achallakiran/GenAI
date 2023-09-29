@@ -1,7 +1,7 @@
 import openai
 
 # Define your OpenAI API key
-api_key = "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"
+api_key = "sk-your api key"
 
 # Function to generate SQL SELECT statement
 def generate_select_statement(table_name, columns):
